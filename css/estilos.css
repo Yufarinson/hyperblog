@@ -8,6 +8,7 @@ body {
 }
 
 #cabecera {
+    display: flex;
     background: #33a;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .5);
     color: white;
@@ -36,4 +37,9 @@ body {
 
 #post {
     padding: 1em
+}
+
+#dragon{
+    height: 50px;
+    width: 60px;
 }
