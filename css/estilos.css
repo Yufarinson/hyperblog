@@ -39,9 +39,16 @@ body {
     padding: 1em
 }
 
+<<<<<<< HEAD
 #footer{
     color: white;
     background-color: darkgrey;
     width: 957px;
     text-align: center;
+=======
+#dragon{
+    height: 50px;
+    width: 60px;
+    color: blueviolet;
+>>>>>>> 078ea33a5ea3de815d4da4898c27ceecccc40da1
 }
