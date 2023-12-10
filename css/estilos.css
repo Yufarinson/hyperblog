@@ -9,7 +9,7 @@ body {
 
 #cabecera {
     display: flex;
-    background: #33a;
+    background: rgb(51, 113, 170);
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .5);
     color: white;
     font-weight: bold;
