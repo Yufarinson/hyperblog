@@ -39,7 +39,7 @@ body {
 }
 
 #footer{
-    color: white;
+    color: rgba(255, 255, 255, 0.356);
     background-color: darkgrey;
     width: 957px;
     text-align: center;
